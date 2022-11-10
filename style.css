@@ -54,3 +54,7 @@ img {
     width: 50px;
     margin: 30vh 10px 0px 10px;
 }
+
+#pause{
+    display: none;
+}
